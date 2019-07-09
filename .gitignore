@@ -73,3 +73,6 @@ gosnmp.html
 cpu.out
 mem.out
 gosnmp.test
+
+# Remove generated mock
+gosnmp_mock.go
